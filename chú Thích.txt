@@ -1,0 +1,4 @@
+Bước 1: Tạo file Theme
+Bước 2: khai báo Theme bằng 1 context để chứa các giao diện của Theme
+Bước 3: sử dụng useContext để dùng các dữ liệu của Theme trong value
+Bước 4: gọi the theme ra để sử dụng
